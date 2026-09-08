@@ -18,10 +18,10 @@
 
 .box {
   color: white;
+  height: 400px;
   padding: 30px;
   margin: 0px;
   text-align: center;
-  justify-content: center;
 }
 
 .bil1 {
@@ -37,7 +37,7 @@
 }
 
 h2 {
-  font-family: [Big Shoulder];
+  font-family: [Big Shoulders Display];
 }
 
 h3 {
