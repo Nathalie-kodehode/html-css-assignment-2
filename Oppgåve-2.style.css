@@ -1,0 +1,50 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  border: 2px solid #333;
+  padding: 100px;
+  margin: 30px;
+  background-color: hsl(0, 0%, 95%);
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.box {
+  color: white;
+  padding: 30px;
+  margin: 0px;
+  text-align: center;
+  justify-content: center;
+}
+
+.bil1 {
+  background-color: hsl(31, 77%, 52%);
+}
+
+.bil2 {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.bil3 {
+  background-color: hsl(179, 100%, 13%);
+}
+
+h2 {
+  font-family: [Big Shoulder];
+}
+
+h3 {
+  font-family: [Lexend Deca];
+}
+
+p {
+  font-family: [Lexend Deca];
+  color: hsla(0, 0%, 100%, 0.75);
+}
