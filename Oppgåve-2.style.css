@@ -36,6 +36,11 @@
   border-bottom-right-radius: 0px;
 }
 
+.sedan-bil {
+  display: flex;
+  margin-left: 25px;
+}
+
 .sedan-heading {
   padding: 20px;
 }
@@ -43,12 +48,13 @@
 .readmore-1 {
   color: hsl(31, 77%, 52%);
   background-color: hsl(0, 0%, 95%);
-  padding: 15px;
+  padding: 13px;
   border: 25px;
-  height: 60px;
+  height: 50px;
   width: 200px;
   border-radius: 30px;
   text-align: center;
+  margin-left: 25px;
 }
 
 /* BIL 2 SUVS */
@@ -61,7 +67,8 @@
 }
 
 .suv-bil {
-  align-items: start;
+  display: flex;
+  margin-left: 25px;
 }
 
 .suv-heading {
@@ -71,12 +78,13 @@
 .readmore-2 {
   color: hsl(184, 100%, 22%);
   background-color: hsl(0, 0%, 95%);
-  padding: 15px;
+  padding: 13px;
   border: 25px;
-  height: 60px;
+  height: 50px;
   width: 200px;
   border-radius: 30px;
   text-align: center;
+  margin-left: 25px;
 }
 
 /* BIL 3 LUXURY */
@@ -86,6 +94,11 @@
   border-bottom-left-radius: 0px;
 }
 
+.luxury-bil {
+  display: flex;
+  margin-left: 25px;
+}
+
 .luxury-heading {
   padding: 20px;
 }
@@ -93,12 +106,13 @@
 .readmore-3 {
   color: hsl(179, 100%, 13%);
   background-color: hsl(0, 0%, 95%);
-  padding: 15px;
+  padding: 13px;
   border: 25px;
-  height: 60px;
+  height: 50px;
   width: 200px;
   border-radius: 30px;
   text-align: center;
+  margin-left: 25px;
 }
 
 /* FONTS */
@@ -107,12 +121,12 @@ h2 {
   font-size: 35px;
   text-align: left;
   padding: 10px;
-  margin:10px;
+  margin: 10px;
 }
 
 h3 {
   font-family: "Lexend Deca";
-  font-size: 25px;
+  font-size: 20px;
 }
 
 p {
