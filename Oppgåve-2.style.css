@@ -20,12 +20,13 @@
 /* BOXES */
 .box {
   color: white;
-  height: 400px;
+  height: 500px;
   padding: 30px;
   margin: 0px;
   text-align: center;
   width: 300px;
   min-width: 300px;
+  min-height: 500px;
   border-radius: 5px;
 }
 
@@ -57,8 +58,45 @@ p {
   font-family: [Lexend Deca];
   color: hsla(0, 0%, 100%, 0.75);
   text-align: left;
+  
 }
+
 
 /* IMAGES */
 
 
+/* BUTTONS */
+
+.readmore {
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+.readmore-1 {
+ color: hsl(31, 77%, 52%);
+ background-color: hsla(0, 1%, 76%, 0.75);
+ border: 25px;
+ height: 40px;
+ border-color: black;
+ border-radius: 30px;
+}
+
+.readmore-2 {
+  color: hsl(184, 100%, 22%);
+   background-color: hsla(0, 0%, 71%, 0.75);
+ border: 25px;
+ height: 40px;
+ border-color: black;
+ border-radius: 30px;
+}
+
+.readmore-3 {
+  color:hsl(179, 100%, 13%);
+ background-color: hsla(0, 0%, 81%, 0.75);
+ border: 25px;
+ height: 40px;
+ border-color: black;
+ border-radius: 30px;
+}
