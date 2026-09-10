@@ -11,7 +11,7 @@
   border-radius: 10px;
   padding: 60px;
   width: 1000px;
-  margin: 60px;
+  margin: 100px;
   background-color: hsl(0, 0%, 95%);
   display: flex;
   justify-content: center;
@@ -51,7 +51,7 @@
   padding: 13px;
   border: 25px;
   height: 50px;
-  width: 200px;
+  width: 150px;
   border-radius: 30px;
   text-align: center;
   margin-left: 25px;
@@ -81,7 +81,7 @@
   padding: 13px;
   border: 25px;
   height: 50px;
-  width: 200px;
+  width: 150px;
   border-radius: 30px;
   text-align: center;
   margin-left: 25px;
@@ -109,7 +109,7 @@
   padding: 13px;
   border: 25px;
   height: 50px;
-  width: 200px;
+  width: 150px;
   border-radius: 30px;
   text-align: center;
   margin-left: 25px;
@@ -127,7 +127,7 @@ h2 {
 
 h3 {
   font-family: "Lexend Deca";
-  font-size: 20px;
+  font-size: 17px;
 }
 
 p {
@@ -140,10 +140,4 @@ p {
   margin-top: 10px;
   padding-top: 0px;
   padding-bottom: 70px;
-}
-
-/* LEARN MORE BUTTONS */
-.readmore {
-  display: flex;
-  justify-content: center;
 }
